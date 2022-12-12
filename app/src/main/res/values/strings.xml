@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">2018076_Tugas8</string>
+    <string name="navigation_drawer_open">Open Navigation
+Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation
+Drawer</string>
+    <string-array name="menus">
+        <item>Kebab</item>
+        <item>Spagetti</item>
+        <item>Chocolate Ice</item>
+    </string-array>
+    <string-array name="star">
+        <item>5.0</item>
+        <item>4.3</item>
+        <item>4.7</item>
+    </string-array>
+    <string-array name="harga">
+        <item>Rp. 18.000</item>
+        <item>Rp. 12.000</item>
+        <item>Rp. 15.000</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="deskription_menu">Jadi ini tu kebab enak banget</string>
+    <string name="ingredients">Kebab ini berisi daging, sayuran, sauce, dan dibungkus tortilla</string>
+    <string name="Resep">Tepung terigu, Garam, Baking powder, Gula pasir, Minyak goreng, Susu cair panas (secukupnya)</string>
+    <string name="price"><strike>Rp 15.000</strike></string>
+    <string name="low_price">Rp 12.000</string>
+</resources>
